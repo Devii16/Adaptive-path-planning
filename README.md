@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jade-malabi-18e28d.netlify.app)
 
 ---
-
+[![ppt](./SIH2026_HackHive_Presentation%20%281%29.pptx)
 ## 📌 Project Information
 
 | Field | Details |
